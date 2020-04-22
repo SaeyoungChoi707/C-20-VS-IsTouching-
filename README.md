@@ -1,1 +1,2 @@
-# C-20-VS-IsTouching-
+# p5.play-boilerplate
+Boiler plate for p5.play
